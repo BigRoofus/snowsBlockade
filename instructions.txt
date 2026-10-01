@@ -1,0 +1,7 @@
+Introducing Blockade — the plugin that keeps your sound yours. Snap it onto any track and it works in total silence, sculpting inaudible high-frequency detail and phase-shifted peaks that humans never notice and machines can't ignore. Built on real adversarial-audio research, Blockade quietly scrambles the fingerprints automated listening systems rely on, so your mix stays exactly as you mixed it — heard by ears, missed by algorithms. One knob. Zero compromise. Protect your sound at the source.
+
+---
+
+No installation required! No product key to enter! No iLok! No dongle! No phoning home to activate!
+
+Just copy the .vst3 file to your local VST3 folder and rescan your plugins from your DAW.
